@@ -1,6 +1,6 @@
 # Machine Learning Specialization — Course 1 Practice Archive
 
-> **Personal study archive. Keep this repository private unless you have verified that every included course-derived file is allowed to be shared publicly.** This is an independent learning archive, not an official DeepLearning.AI or Stanford repository.
+> **Personal study archive.** This is an independent learning archive, not an official DeepLearning.AI or Stanford repository.
 
 This repository preserves my practice notebooks and helper code while studying **Supervised Machine Learning: Regression and Classification**. The notebooks explore concepts from scratch and with NumPy, Matplotlib, and scikit-learn.
 
@@ -64,5 +64,3 @@ The files in `data/` are comma-separated numeric values without header rows. See
 ## Notes about the work
 
 These notebooks document learning and experimentation; they are not a standalone, independently evaluated machine-learning project. Some notebooks repeat concepts for practice or compare a from-scratch implementation with scikit-learn. Repetition is intentional in a learning archive.
-
-Before making any course-related repository public, check the current course and platform sharing rules and remove any content that is not explicitly permitted to be redistributed. Do not add a blanket open-source license to course-provided material unless you have the right to license it.
